@@ -1,6 +1,7 @@
-### Oi, eu sou Priscila Fischer 👋
+### Hallo, ich bin Priscila Fischer 👋
 
-- 🌱 Cursando Analise e Desenvolvimento de Sistema
+- 🌱 Ich studiere Fachinformatikerin für Analyse und 
+Systementwicklung.
 
 <div align="center">
   <a href="https://github.com/PriscilaFischer">
