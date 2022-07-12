@@ -18,6 +18,4 @@
 
 <div> 
 
-  <a href="https://instagram.com/PriscilaFischer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href = "mailto:prieolga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_black"></a> <a href="https://linkedin.com/in/priscila-carolina-gon%C3%A7alves-fischer-78a610b6" target="_black"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- 
+
