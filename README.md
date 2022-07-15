@@ -16,5 +16,3 @@ Systementwicklung.
 </div>
 
 ##
-
-<div> 
